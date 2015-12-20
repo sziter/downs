@@ -1,0 +1,6 @@
+number of salespersons in store 1200: 1
+number of salespersons in store 1234: 6
+number of salespersons in store 1235: 2
+number of salespersons in store 1300: 1
+number of salespersons in store 1237: 3
+number of salespersons in store 1236: 2
