@@ -35,7 +35,7 @@ for store in sheet_transactions.col_values(col_store, row_start):
 for store in dict_stores_salespersons:
 	num_salesperson = len(set(dict_stores_salespersons[store]))
 	dict_stores_num_salesperson[store] = num_salesperson
-	print "number of distinct salespersons in store %.0f: %d" % (store, dict_stores_num_salesperson[store])
+	print "number of unique salespersons in store %.0f: %d" % (store, dict_stores_num_salesperson[store])
 
 
 ##################################### Output #####################################
